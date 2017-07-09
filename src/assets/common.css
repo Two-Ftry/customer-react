@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: '微软雅黑', sans-serif;
+  font-size: 0.24rem;
+}
+ul, ol {
+  list-style: none;
+}
+
+.clearfix:before, .clearfix:after {
+  content: ' ';
+  display: block;
+  height: 0;
+  visibility: hidden;
+  clear: both;
+}

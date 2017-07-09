@@ -1,0 +1,13 @@
+.customer-list-item {
+    display: flex;
+    padding: 0.12rem 0.24rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.customer-list-item .left-part {
+    flex: 7;
+}
+.customer-list-item  .right-part {
+    flex: 3;
+    text-align: right;
+}

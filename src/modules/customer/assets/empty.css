@@ -1,0 +1,8 @@
+.empty-page {
+    display: table;
+}
+.empty-page .inner-page {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
